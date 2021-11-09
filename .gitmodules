@@ -1,0 +1,6 @@
+[submodule "krslon-frontend"]
+	path = krslon-frontend
+	url = https://github.com/ifelseelif/krslon-frontend.git
+[submodule "krslon-backend"]
+	path = krslon-backend
+	url = https://github.com/ifelseelif/krslon-backend.git
